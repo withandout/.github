@@ -152,6 +152,9 @@ SSAFY 10기 1학기 최종 프로젝트 - WithandOut
 메인페이지에서 개인 네임카드 수정 화면
 ![수정](./assets/main_modify.png)
 
+메인페이지에서 날씨 API 확인 화면
+<img width="1512" alt="main_weather" src="https://github.com/withandout/withandoutBE/assets/93235981/ea817fdb-d629-4d1c-9a32-946a2840d165">
+
 ### 파티 생성
 
 ![파티생성](./assets/make_party.png)
