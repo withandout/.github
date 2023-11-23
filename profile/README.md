@@ -132,37 +132,37 @@ SSAFY 10기 1학기 최종 프로젝트 - WithandOut
 
 ### 로그인
 
-![로그인](../profile/assets/login.png)
+<img width="1512" alt="login" src="https://github.com/withandout/withandoutBE/assets/93235981/87970d1c-8d9a-4c18-87db-0ccebd60ddcf">
 
 ### 회원가입
 
-![회원가입](./assets/signup.png)
+<img width="1510" alt="signup" src="https://github.com/withandout/withandoutBE/assets/93235981/822f0d1f-9aa9-4722-8f1e-a8146a2ee88a">
 
 ### 메인페이지
 
 메인페이지에서 동네 인증하는 화면
-![메인페이지](./assets/main_town.png)
+<img width="1512" alt="main_town" src="https://github.com/withandout/withandoutBE/assets/93235981/ac8c92f5-cd9a-4b25-be0b-b2ade5653cff">
 
 메인페이지에서 알림 확인
-![알림](./assets/main_alarm.png)
+<img width="1512" alt="main_alarm" src="https://github.com/withandout/withandoutBE/assets/93235981/f0b94d23-98a0-4e56-83f1-ec82f1094670">
 
 메인페이지에서 현재 예정된 이벤트 확인
-![이벤트](./assets/main_calander.png)
+<img width="1512" alt="main_calander" src="https://github.com/withandout/withandoutBE/assets/93235981/293666ef-95c5-47dd-ac38-20d524a47f32">
 
 메인페이지에서 개인 네임카드 수정 화면
-![수정](./assets/main_modify.png)
+<img width="1512" alt="main_modify" src="https://github.com/withandout/withandoutBE/assets/93235981/d89db47c-dd92-477c-9bc3-38014cc46b5f">
 
 메인페이지에서 날씨 API 확인 화면
 <img width="1512" alt="main_weather" src="https://github.com/withandout/withandoutBE/assets/93235981/ea817fdb-d629-4d1c-9a32-946a2840d165">
 
 ### 파티 생성
 
-![파티생성](./assets/make_party.png)
+<img width="1512" alt="make_party" src="https://github.com/withandout/withandoutBE/assets/93235981/5dda253e-cce9-409b-b04e-88b9b83ddd79">
 
 ### 파티 신청
 
 파티 신청 리스트 및 현재 클릭된 파티의 정보, 리더 정보 확인
-![파티신청](./assets/join_party.png)
+<img width="1512" alt="join_party" src="https://github.com/withandout/withandoutBE/assets/93235981/843e298d-8023-4ad0-9df3-6e85a25965b9">
 
 파티 신청시 보여줄 파티 신청 정보 확인
-![파티정보](./assets/join_info.png)
+<img width="1511" alt="join_info" src="https://github.com/withandout/withandoutBE/assets/93235981/0757053a-50df-4cbe-b61f-1fddb4fc3f4d">
