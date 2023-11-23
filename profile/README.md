@@ -132,7 +132,7 @@ SSAFY 10기 1학기 최종 프로젝트 - WithandOut
 
 ### 로그인
 
-![로그인](./assets/login.png)
+![로그인](../profile/assets/login.png)
 
 ### 회원가입
 
