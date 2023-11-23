@@ -128,4 +128,38 @@ SSAFY 10기 1학기 최종 프로젝트 - WithandOut
 - Google SpreadSheets
   1. 기능 명세서 작성
 
-## 프로젝트 산출물
+## 상세 화면
+
+### 로그인
+
+![로그인](./assets/login.png)
+
+### 회원가입
+
+![회원가입](./assets/signup.png)
+
+### 메인페이지
+
+메인페이지에서 동네 인증하는 화면
+![메인페이지](./assets/main_town.png)
+
+메인페이지에서 알림 확인
+![알림](./assets/main_alarm.png)
+
+메인페이지에서 현재 예정된 이벤트 확인
+![이벤트](./assets/main_calander.png)
+
+메인페이지에서 개인 네임카드 수정 화면
+![수정](./assets/main_modify.png)
+
+### 파티 생성
+
+![파티생성](./assets/make_party.png)
+
+### 파티 신청
+
+파티 신청 리스트 및 현재 클릭된 파티의 정보, 리더 정보 확인
+![파티신청](./assets/join_party.png)
+
+파티 신청시 보여줄 파티 신청 정보 확인
+![파티정보](./assets/join_info.png)
