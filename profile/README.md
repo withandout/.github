@@ -31,7 +31,7 @@ SSAFY 10기 1학기 최종 프로젝트 - WithandOut
             <img src="https://avatars.githubusercontent.com/u/93235981?v=4" width="100px;" alt=""/>
             <br />
             <sub>
-                <b>김예림</b>
+                <b>***</b>
                 <br/>
                 <b>프론트엔드 총괄</b>
             </sub>
